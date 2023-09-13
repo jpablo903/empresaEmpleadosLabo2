@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1694226725 source:c:\users\juan pablo\desktop\tup frgp\segundo cuatrimestre\laboratorio 2\ejercicio en clases\ejerciciosempleados\empleados\empleado.cpp
+	<iostream>
+	"empleado.h"
+
+1694226704 c:\users\juan pablo\desktop\tup frgp\segundo cuatrimestre\laboratorio 2\ejercicio en clases\ejerciciosempleados\empleados\empleado.h
+	"persona.h"
+
+1694125815 c:\users\juan pablo\desktop\tup frgp\segundo cuatrimestre\laboratorio 2\ejercicio en clases\ejerciciosempleados\empleados\persona.h
+	<string>
+
+1694398499 source:c:\users\juan pablo\desktop\tup frgp\segundo cuatrimestre\laboratorio 2\ejercicio en clases\ejerciciosempleados\empleados\main.cpp
+	<iostream>
+	"empleadoXHora.h"
+	"cargarHonorarios.h"
+	"nominaEmpleados.h"
+
+1694125321 source:c:\users\juan pablo\desktop\tup frgp\segundo cuatrimestre\laboratorio 2\ejercicio en clases\ejerciciosempleados\empleados\persona.cpp
+	"persona.h"
+
+1694381522 source:c:\users\juan pablo\desktop\tup frgp\segundo cuatrimestre\laboratorio 2\ejercicio en clases\ejerciciosempleados\empleados\cargarhonorarios.cpp
+	<iostream>
+	"cargarHonorarios.h"
+	"empleadoAsalariado.h"
+	"empleadoXHora.h"
+	"empleadoComision.h"
+	"empleadoAsociado.h"
+
+1694130155 c:\users\juan pablo\desktop\tup frgp\segundo cuatrimestre\laboratorio 2\ejercicio en clases\ejerciciosempleados\empleados\cargarhonorarios.h
+
+1694126972 c:\users\juan pablo\desktop\tup frgp\segundo cuatrimestre\laboratorio 2\ejercicio en clases\ejerciciosempleados\empleados\empleadoasalariado.h
+	"empleado.h"
+
+1694207739 source:c:\users\juan pablo\desktop\tup frgp\segundo cuatrimestre\laboratorio 2\ejercicio en clases\ejerciciosempleados\empleados\empleadoasalariado.cpp
+	<iostream>
+	"empleadoAsalariado.h"
+
+1694207740 source:c:\users\juan pablo\desktop\tup frgp\segundo cuatrimestre\laboratorio 2\ejercicio en clases\ejerciciosempleados\empleados\empleadoxhora.cpp
+	<iostream>
+	"empleadoXHora.h"
+
+1694128430 c:\users\juan pablo\desktop\tup frgp\segundo cuatrimestre\laboratorio 2\ejercicio en clases\ejerciciosempleados\empleados\empleadoxhora.h
+	"empleado.h"
+
+1694212231 c:\users\juan pablo\desktop\tup frgp\segundo cuatrimestre\laboratorio 2\ejercicio en clases\ejerciciosempleados\empleados\empleadocomision.h
+	"empleado.h"
+
+1694213034 source:c:\users\juan pablo\desktop\tup frgp\segundo cuatrimestre\laboratorio 2\ejercicio en clases\ejerciciosempleados\empleados\empleadocomision.cpp
+	<iostream>
+	"empleadoComision.h"
+
+1694229296 c:\users\juan pablo\desktop\tup frgp\segundo cuatrimestre\laboratorio 2\ejercicio en clases\ejerciciosempleados\empleados\empleadoasociado.h
+	"empleado.h"
+
+1694388742 source:c:\users\juan pablo\desktop\tup frgp\segundo cuatrimestre\laboratorio 2\ejercicio en clases\ejerciciosempleados\empleados\empleadoasociado.cpp
+	<iostream>
+	"empleadoAsociado.h"
+
+1694398319 c:\users\juan pablo\desktop\tup frgp\segundo cuatrimestre\laboratorio 2\ejercicio en clases\ejerciciosempleados\empleados\nominaempleados.h
+
+1694400573 source:c:\users\juan pablo\desktop\tup frgp\segundo cuatrimestre\laboratorio 2\ejercicio en clases\ejerciciosempleados\empleados\nominaempleados.cpp
+	<iostream>
+	<string>
+	"nominaEmpleados.h"
+	"empleado.h"
+
